@@ -4,7 +4,7 @@
 }
 
 .leading_c38106::before {
-    content: "‏‏‎ A d o";
+    content: "‏‏‎ Ado";
     font-size: 12px;
     font-weight: 900;
     font-family: "Poiret one" !important;
@@ -19,7 +19,7 @@
 }
 
 .leading_c38106:hover::before {
-    content: "‏‏‎ A d o";
+    content: "‏‏‎ Ado";
     letter-spacing: 2px;
 }
 
